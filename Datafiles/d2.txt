@@ -1,0 +1,1554 @@
+[
+   {
+      "Director":"Sergio Leone",
+      "InfluencedBy":"Orson Welles"
+   },
+   {
+      "Director":"Sergio Leone",
+      "InfluencedBy":"John Huston"
+   },
+   {
+      "Director":"Sergio Leone",
+      "InfluencedBy":"John Ford"
+   },
+   {
+      "Director":"Sergio Leone",
+      "InfluencedBy":"Akira Kurosawa"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Woody Allen"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"William Friedkin"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Walt Disney"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Victor Fleming"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Terrence Malick"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Sidney Sheinberg"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Sidney Lumet"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Satyajit Ray"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Roman Polanski"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Roger Corman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Robert Wise"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Robert Altman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Richard Donner"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Ray Harryhausen"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Orson Welles"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Norman Jewison"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Milos Forman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"M. Night Shyamalan"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"John Frankenheimer"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"John Ford"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"John Cassavetes"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Ingmar Bergman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Howard Hawks"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"George Lucas"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Fritz Lang"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Fred Zinneman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Frank Capra"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Francis Ford Coppola"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Elia Kazan"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Don Siegel"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"David Lynch"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"David Lean"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"David Cronenberg"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Costa-Gavras"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Clint Eastwood"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Cecil B. DeMille"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Brian De Palma"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Blake Edwards"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Billy Wilder"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Arthur Penn"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Akira Kurosawa"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"Sergei Eisenstein"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"Lev Kuleshov"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"Fritz Lang"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"F. W. Murnau"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"D. W. Griffith"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"Sergei Eisenstein"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"Lev Kuleshov"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"Fritz Lang"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"F. W. Murnau"
+   },
+   {
+      "Director":"Alfred Hitchcock",
+      "InfluencedBy":"D. W. Griffith"
+   },
+   {
+      "Director":"Billy Wilder",
+      "InfluencedBy":"Alexander Lernet-Holenia"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Terrence Malick"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Sidney Lumet"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Nicolas Roeg"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Matthew Tibbenham"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Jorge Luis Borges"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Fritz Lang"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"David Lean"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Articles for creation/Matthew Tibbenham"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Werner Herzog"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Tennessee Williams"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Sergei Eisenstein"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Roger Corman"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Michelangelo Antonioni"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Ingmar Bergman"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Eugene O\u0027Neill"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Elia Kazan"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Akira Kurosawa"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Roger Corman"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Ray Harryhausen"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"George Lucas"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Edgar Rice Burroughs"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Woody Allen"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"William Friedkin"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Walt Disney"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Victor Fleming"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Terrence Malick"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Sidney Sheinberg"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Sidney Lumet"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Satyajit Ray"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Roman Polanski"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Roger Corman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Robert Wise"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Robert Altman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Richard Donner"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Ray Harryhausen"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Orson Welles"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Norman Jewison"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Milos Forman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"M. Night Shyamalan"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"John Frankenheimer"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"John Ford"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"John Cassavetes"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Ingmar Bergman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Howard Hawks"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"George Lucas"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Fritz Lang"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Fred Zinneman"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Frank Capra"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Francis Ford Coppola"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Elia Kazan"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Don Siegel"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"David Lynch"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"David Lean"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"David Cronenberg"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Costa-Gavras"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Clint Eastwood"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Cecil B. DeMille"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Brian De Palma"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Blake Edwards"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Billy Wilder"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Arthur Penn"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Akira Kurosawa"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Sergei Eisenstein"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Orson Welles"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Max Ophüls"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Lev Kuleshov"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"John Ford"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Fritz Lang"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Federico Fellini"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"David Lynch"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Charlie Chaplin",
+      "InfluencedBy":"Max Linder"
+   },
+   {
+      "Director":"Ridley Scott",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Paul Thomas Anderson",
+      "InfluencedBy":"Jonathan Demme"
+   },
+   {
+      "Director":"Vince Gilligan",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Robert Rodriguez",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Quentin Tarantino",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Marc Sinden",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Laurent Touil-Tartour",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Kathryn Bigelow",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Gore Verbinski",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Gian Franco Morini",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Dan Glaser",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Christophe Gans",
+      "InfluencedBy":"Sergio Leone"
+   },
+   {
+      "Director":"Ayoub Qanir",
+      "InfluencedBy":"Michael Curtiz"
+   },
+   {
+      "Director":"Tim Burton",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Steven Soderbergh",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Sam Raimi",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Sam Mendes",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Ron Howard",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Roland Emmerich",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Robert Zemeckis",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Robert Rodriguez",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Ridley Scott",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Rian Johnson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Quentin Tarantino",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Peter Jackson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Paul Greengrass",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Patrick Read Johnson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Pankaj Yadav",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Neill Blomkamp",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Michael Mann (director)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Michael Bay",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"M. Night Shyamalan",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Luc Besson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Kevin Smith",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Joss Whedon",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"John Woo",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"John Hughes (filmmaker)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Joe Lipari",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"James Rolfe (filmmaker)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"J. J. Abrams",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Gus Van Sant",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Guillermo del Toro",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Gore Verbinski",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"David Fincher",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Danny Boyle",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Chris Valentino",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Chris Columbus (filmmaker)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Ang Lee",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Zeeshan Jawed Shah",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Tim Burton",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Sam Raimi",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Robert Zemeckis",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Parviz Nouri",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Nagendra Karri",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Mel Brooks",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Martin Scorsese",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"M. Night Shyamalan",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Kathryn Bigelow",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Josh Becker",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Jonathan Demme",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"John Carpenter",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Joe Lipari",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Jason Smilovic",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Jacques Rivette",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Ihor Podolchak",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Greg Marcks",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"François Truffaut",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"David Lynch",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"David Fincher",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Darren Aronofsky",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Dario Argento",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Claude Chabrol",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Brian De Palma",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Anthony Horowitz",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Andy Gotts",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Zeeshan Jawed Shah",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Tim Burton",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Stanley Kubrick",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Sam Raimi",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Robert Zemeckis",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Parviz Nouri",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Nagendra Karri",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Mel Brooks",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Martin Scorsese",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"M. Night Shyamalan",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Kathryn Bigelow",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Josh Becker",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Jonathan Demme",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"John Carpenter",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Joe Lipari",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Jason Smilovic",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Jacques Rivette",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Ihor Podolchak",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Greg Marcks",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"François Truffaut",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Francis Ford Coppola",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"David Lynch",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"David Fincher",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Darren Aronofsky",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Dario Argento",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Claude Chabrol",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Brian De Palma",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Anthony Horowitz",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Andy Gotts",
+      "InfluencedBy":"Alfred Hitchcock"
+   },
+   {
+      "Director":"Jason Smilovic",
+      "InfluencedBy":"Billy Wilder"
+   },
+   {
+      "Director":"David Lynch",
+      "InfluencedBy":"Billy Wilder"
+   },
+   {
+      "Director":"Pankaj Yadav",
+      "InfluencedBy":"Christopher Nolan"
+   },
+   {
+      "Director":"Giacomo Mantovani",
+      "InfluencedBy":"Christopher Nolan"
+   },
+   {
+      "Director":"Vince Gilligan",
+      "InfluencedBy":"Francis Ford Coppola"
+   },
+   {
+      "Director":"Sofia Coppola",
+      "InfluencedBy":"Francis Ford Coppola"
+   },
+   {
+      "Director":"Patrick Read Johnson",
+      "InfluencedBy":"Francis Ford Coppola"
+   },
+   {
+      "Director":"Iain McGuinness",
+      "InfluencedBy":"Francis Ford Coppola"
+   },
+   {
+      "Director":"Sam Raimi",
+      "InfluencedBy":"James Cameron"
+   },
+   {
+      "Director":"Rupert Wyatt",
+      "InfluencedBy":"James Cameron"
+   },
+   {
+      "Director":"Robert Rodriguez",
+      "InfluencedBy":"James Cameron"
+   },
+   {
+      "Director":"Pankaj Yadav",
+      "InfluencedBy":"James Cameron"
+   },
+   {
+      "Director":"Kathryn Bigelow",
+      "InfluencedBy":"James Cameron"
+   },
+   {
+      "Director":"Joss Whedon",
+      "InfluencedBy":"James Cameron"
+   },
+   {
+      "Director":"Joe Velikovsky",
+      "InfluencedBy":"James Cameron"
+   },
+   {
+      "Director":"Tim Burton",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Steven Soderbergh",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Sam Raimi",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Sam Mendes",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Ron Howard",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Roland Emmerich",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Robert Zemeckis",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Robert Rodriguez",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Ridley Scott",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Rian Johnson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Quentin Tarantino",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Peter Jackson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Paul Greengrass",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Patrick Read Johnson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Pankaj Yadav",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Neill Blomkamp",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Michael Mann (director)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Michael Bay",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"M. Night Shyamalan",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Luc Besson",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Kevin Smith",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Joss Whedon",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"John Woo",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"John Hughes (filmmaker)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Joe Lipari",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"James Rolfe (filmmaker)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"J. J. Abrams",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Gus Van Sant",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Guillermo del Toro",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Gore Verbinski",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"David Fincher",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Danny Boyle",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Chris Valentino",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Chris Columbus (filmmaker)",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Ang Lee",
+      "InfluencedBy":"Steven Spielberg"
+   },
+   {
+      "Director":"Woody Allen",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"William Eubank",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Vince Gilligan",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Tim Burton",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Terry Gilliam",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Steven Spielberg",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Sam Raimi",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Ridley Scott",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Quentin Tarantino",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Peter Jackson",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Paul Thomas Anderson",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Patrick Read Johnson",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Nicolas Winding Refn",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Nagendra Karri",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Michael Moore",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Michael Mann (director)",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Matt Groening",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Martin Scorsese",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Marc Scarpa",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Laurent Touil-Tartour",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Lars von Trier",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Kathryn Bigelow",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Joss Whedon",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"John Orloff",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"John Hughes (filmmaker)",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"John Carpenter",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Joerg Steineck",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Joe Velikovsky",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Jamaa Fanaka",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Iain McGuinness",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Gus Van Sant",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Guillermo del Toro",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Gian Franco Morini",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Giacomo Mantovani",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"George A. Romero",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Gaspar Noé",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Frank Darabont",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Don Hertzfeldt",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"David Lynch",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"David Fincher",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"David Cronenberg",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Darren Aronofsky",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Daniel Knauf",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Coen brothers",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Christopher Largen",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Carlos Hernández Vázquez",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Brian Gage",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Barry Ptolemy",
+      "InfluencedBy":"Stanley Kubrick"
+   },
+   {
+      "Director":"Woody Allen",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"The Three Stooges",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Rowan Atkinson",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Robert Rodriguez",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Pierre Étaix",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Peter Sellers",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Paul Merton",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Milton Berle",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Marcel Marceau",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Johnny Depp",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Jacques Tati",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Irwin Corey",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Harold Lloyd",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Galenskaparna och After Shave",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Federico Fellini",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Denis Donohue",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Coen brothers",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Charlie Callas",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Benny Hill",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Barry Ptolemy",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Andrei Tarkovsky",
+      "InfluencedBy":"Charlie Chaplin"
+   },
+   {
+      "Director":"Tony Scott",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Perry Bhandal",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Michael Arbouet",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Joss Whedon",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"James Cameron",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Eli Roth",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Christopher Nolan",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Bruce Jurgens",
+      "InfluencedBy":"Ridley Scott"
+   },
+   {
+      "Director":"Ben Affleck",
+      "InfluencedBy":"Ridley Scott"
+   }
+]
